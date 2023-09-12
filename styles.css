@@ -1,0 +1,35 @@
+h1 {
+  color: #4363f4;
+  font-size: 50px;
+  font-family: Crimson Text;
+  text-align: center;
+}
+
+h2{
+  color: #4363f4;
+  font-size: 25px;
+  font-family: Crimson Text;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  font: bold 12px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 3px solid #CCCCCC;
+  border-right: 3px solid #333333;
+  border-bottom: 3px solid #333333;
+  border-left: 3px solid #CCCCCC;
+}
