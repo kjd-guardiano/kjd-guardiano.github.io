@@ -1,5 +1,5 @@
 body{
-  background-color: #2c2d2e;
+  background-color: #2C2D2E;
 }
 
 h1 {
@@ -17,7 +17,9 @@ h2{
 }
 
 p{
+  color: #82b395;
   text-align: center;
+  font-family: Crimson Text;
 }
 
 h3{
