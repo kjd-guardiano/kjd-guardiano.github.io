@@ -9,6 +9,11 @@
   <img
 </figure>
 
+<figure>
+  <img src="img/personalimg.jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="imgcenter" width="800" height="600">
+  <figcaption>An image of me, at the Los Angeles Museum of Art!</figcaption>
+</figure>
+
 <h2>
   { About Me }
 </h2>
@@ -16,11 +21,6 @@
   Hey, I'm Katherine! I'm an enterprising college student that's seeking to jump into the world of cybersecurity. I've worked an internship managing and repairing systems for multiple different people of multiple different types, and participated in events revolving around system hardening and network security. I consider myself hard-working, perseverant, and a quick learner!
 </p>
 <br>
-
-<figure>
-  <img src="img/personalimg.jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="imgcenter" width="800" height="600">
-  <figcaption>An image of me, at the Los Angeles Museum of Art!</figcaption>
-</figure>
 
 <h2>
   { Experience }
