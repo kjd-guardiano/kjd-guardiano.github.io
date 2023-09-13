@@ -10,7 +10,7 @@
 </figure>
 
 <figure>
-  <img src="img/personalimg.jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="imgcenter"/>
+  <img src="img/personalimg.jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="center"/>
   <figcaption>An image of me, at the Los Angeles Museum of Art!</figcaption>
 </figure>
 
