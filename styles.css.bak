@@ -18,6 +18,8 @@ p{
 
 h3{
   color: #4363f4;
+  font-size: 20px;
+  font-family: Crimson Text;
   text-align: center;
 }
 
