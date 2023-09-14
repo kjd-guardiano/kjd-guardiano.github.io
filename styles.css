@@ -3,18 +3,27 @@ body{
 }
 
 figure{
-  color: #4d8a65
+  color: #666666
 }
 
+img{
+  border: 10px solid #4d8a65;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 h1 {
-  color: #4d8a65;
+  color: #666666;
   font-size: 60px;
   font-family: Crimson Text;
   text-align: center;
 }
 
 h2{
-  color: #4d8a65;
+  color: #666666;
   font-size: 50px;
   font-family: Crimson Text;
   text-align: center;
@@ -28,17 +37,10 @@ p{
 }
 
 h3{
-  color: #4d8a65;
+  color: #666666;
   font-size: 25px;
   font-family: Crimson Text;
   text-align: center;
-}
-
-.imgcenter{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 .center {
