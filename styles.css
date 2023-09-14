@@ -8,14 +8,14 @@ figure{
 
 h1 {
   color: #4d8a65;
-  font-size: 50px;
+  font-size: 60px;
   font-family: Crimson Text;
   text-align: center;
 }
 
 h2{
   color: #4d8a65;
-  font-size: 25px;
+  font-size: 50px;
   font-family: Crimson Text;
   text-align: center;
 }
@@ -23,12 +23,13 @@ h2{
 p{
   color: #82b395;
   text-align: center;
+  text-size: 30px;
   font-family: Crimson Text;
 }
 
 h3{
   color: #4d8a65;
-  font-size: 20px;
+  font-size: 25px;
   font-family: Crimson Text;
   text-align: center;
 }
