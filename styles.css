@@ -2,6 +2,10 @@ body{
   background-color: #2C2D2E;
 }
 
+figure{
+  color: #4d8a65
+}
+
 h1 {
   color: #4d8a65;
   font-size: 50px;
