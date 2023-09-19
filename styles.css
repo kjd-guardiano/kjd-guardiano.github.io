@@ -2,44 +2,16 @@ body{
   background-color: #2C2D2E;
 }
 
-figure{
-  color: #666666;
-  text-align: center;
-}
-
-img{
-  border: 10px solid #4d8a65;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-
 h1 {
-  color: #666666;
-  font-size: 60px;
-  font-family: Crimson Text;
-  text-align: center;
-}
-
-h2{
-  color: #666666;
+  color: #4d8a65;
   font-size: 50px;
   font-family: Crimson Text;
   text-align: center;
 }
 
-p{
-  color: #82b395;
-  text-align: center;
-  font-size: 40px;
-  font-family: Crimson Text;
-}
-
-h3{
-  color: #666666;
-  font-size: 35px;
+h2{
+  color: #4d8a65;
+  font-size: 25px;
   font-family: Crimson Text;
   text-align: center;
   padding: 3px 8px 3px 8px;
@@ -50,6 +22,19 @@ h3{
   border-left: 6px solid #4d8a84;
 }
 
+p{
+  color: #82b395;
+  text-align: center;
+  font-family: Crimson Text;
+}
+
+.imgcenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .center {
   display: flex;
   justify-content: center;
@@ -57,7 +42,7 @@ h3{
 }
 
 .button {
-  font: bold 20px Garamond;
+  font: bold 12px Arial;
   text-decoration: none;
   background-color: #5a5a5a;
   color: #82b395;

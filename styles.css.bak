@@ -27,6 +27,12 @@ h3{
   font-size: 20px;
   font-family: Crimson Text;
   text-align: center;
+  
+}
+
+.textborder {
+  padding: 3px 8px 3px 8px;
+  background-color: #5a5a5a;
   border-top: 6px solid #4d8a84;
   border-right: 6px solid #4d8a65;
   border-bottom: 6px solid #4d8a65;
@@ -49,7 +55,7 @@ h3{
 .button {
   font: bold 12px Arial;
   text-decoration: none;
-  background-color: #2c2d2e;
+  background-color: #5a5a5a;
   color: #82b395;
   padding: 2px 6px 2px 6px;
   border-top: 3px solid #CCCCCC;
