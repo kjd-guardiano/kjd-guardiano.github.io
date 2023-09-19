@@ -22,15 +22,7 @@ p{
   font-family: Crimson Text;
 }
 
-h3{
-  color: #4d8a65;
-  font-size: 20px;
-  font-family: Crimson Text;
-  text-align: center;
-  
-}
-
-.textborder {
+div{
   padding: 3px 8px 3px 8px;
   background-color: #5a5a5a;
   border-top: 6px solid #4d8a84;
