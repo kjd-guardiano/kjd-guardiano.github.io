@@ -6,7 +6,7 @@
 <h1><u>Aspiring Cybersecurity Analyst</u></h1>
 
 <figure>
-  <img src="img/personalimg(1).jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="center"/>
+  <img src="img/personalimg(1).jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="imgcenter">
   <figcaption>An image of me, at the Los Angeles Museum of Art!</figcaption>
 </figure>
 
