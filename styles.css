@@ -26,6 +26,13 @@ h2{
   border-left: 6px solid #4d8a84;
 }
 
+h3{
+  color: #4d8a65;
+  font-size: 20px;
+  font-family: Crimson Text;
+  text-align: center;
+}
+
 p{
   color: #82b395;
   text-align: center;
