@@ -24,7 +24,8 @@ h2{
 
 figcaption {
   color: #CCCCCC;
-p{
+
+.presize{
   color: #82b395;
   text-align: center;
   font-family: Crimson Text;
