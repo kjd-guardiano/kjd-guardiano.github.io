@@ -11,7 +11,7 @@
 
 <figure>
   <img src="img/personalimg(1).jpg" alt="An image of me, at the Los Angeles Museum of Art!" class="imgcenter"/>
-  <figcaption class="center">An image of me, at the Los Angeles Museum of Art!</figcaption>
+  <figcaption color=#4d8a65 class="center">An image of me, at the Los Angeles Museum of Art!</figcaption>
 </figure>
 
 <div>
